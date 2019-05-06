@@ -105,6 +105,7 @@ public class Log4jDemo {
 	  
 	  
 	  System.out.println("added from eclips");
+	   System.out.println("added from github");
   }
 
 }
