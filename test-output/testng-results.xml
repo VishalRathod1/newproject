@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11759" started-at="2019-04-20T11:44:32Z" finished-at="2019-04-20T11:44:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11759" started-at="2019-04-20T11:44:32Z" finished-at="2019-04-20T11:44:44Z">
+      <class name="com.vishal.Log4jDemo.Log4jDemo">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.vishal.Log4jDemo.Log4jDemo@5abca1e0]" name="openBrowser" is-config="true" duration-ms="5410" started-at="2019-04-20T11:44:27Z" finished-at="2019-04-20T11:44:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="enterApplicationUrl()[pri:0, instance:com.vishal.Log4jDemo.Log4jDemo@5abca1e0]" name="enterApplicationUrl" is-config="true" duration-ms="3510" started-at="2019-04-20T11:44:32Z" finished-at="2019-04-20T11:44:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterApplicationUrl -->
+        <test-method status="PASS" signature="windowMaximize()[pri:0, instance:com.vishal.Log4jDemo.Log4jDemo@5abca1e0]" name="windowMaximize" is-config="true" duration-ms="1172" started-at="2019-04-20T11:44:36Z" finished-at="2019-04-20T11:44:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- windowMaximize -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.vishal.Log4jDemo.Log4jDemo@5abca1e0]" name="beforeMethod" is-config="true" duration-ms="24" started-at="2019-04-20T11:44:37Z" finished-at="2019-04-20T11:44:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginWithValidDetails()[pri:1, instance:com.vishal.Log4jDemo.Log4jDemo@5abca1e0]" name="loginWithValidDetails" duration-ms="4200" started-at="2019-04-20T11:44:37Z" finished-at="2019-04-20T11:44:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidDetails -->
+        <test-method status="PASS" signature="captureScreenshot()[pri:0, instance:com.vishal.Log4jDemo.Log4jDemo@5abca1e0]" name="captureScreenshot" is-config="true" duration-ms="424" started-at="2019-04-20T11:44:41Z" finished-at="2019-04-20T11:44:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenshot -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.vishal.Log4jDemo.Log4jDemo@5abca1e0]" name="beforeMethod" is-config="true" duration-ms="9" started-at="2019-04-20T11:44:42Z" finished-at="2019-04-20T11:44:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginWithInvalidDetails()[pri:2, instance:com.vishal.Log4jDemo.Log4jDemo@5abca1e0]" name="loginWithInvalidDetails" duration-ms="1952" started-at="2019-04-20T11:44:42Z" finished-at="2019-04-20T11:44:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithInvalidDetails -->
+        <test-method status="PASS" signature="captureScreenshot()[pri:0, instance:com.vishal.Log4jDemo.Log4jDemo@5abca1e0]" name="captureScreenshot" is-config="true" duration-ms="396" started-at="2019-04-20T11:44:44Z" finished-at="2019-04-20T11:44:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenshot -->
+        <test-method status="PASS" signature="deleteCookies()[pri:0, instance:com.vishal.Log4jDemo.Log4jDemo@5abca1e0]" name="deleteCookies" is-config="true" duration-ms="12" started-at="2019-04-20T11:44:44Z" finished-at="2019-04-20T11:44:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCookies -->
+        <test-method status="PASS" signature="dbConnection()[pri:0, instance:com.vishal.Log4jDemo.Log4jDemo@5abca1e0]" name="dbConnection" is-config="true" duration-ms="0" started-at="2019-04-20T11:44:44Z" finished-at="2019-04-20T11:44:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dbConnection -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.vishal.Log4jDemo.Log4jDemo@5abca1e0]" name="closeBrowser" is-config="true" duration-ms="516" started-at="2019-04-20T11:44:44Z" finished-at="2019-04-20T11:44:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.vishal.Log4jDemo.Log4jDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,89 @@
+2019-04-20 16:55:31 INFO  Log4jDemo:83 - In openBrowser method under BeforeSuite
+2019-04-20 16:55:51 INFO  Log4jDemo:86 - Chrome browser is opened successfully
+2019-04-20 16:55:51 INFO  Log4jDemo:71 - In enterApplicationUrl method under BeforeTest
+2019-04-20 16:57:51 INFO  Log4jDemo:73 - url is entered successfully
+2019-04-20 16:58:45 INFO  Log4jDemo:83 - In openBrowser method under BeforeSuite
+2019-04-20 16:58:55 INFO  Log4jDemo:86 - Chrome browser is opened successfully
+2019-04-20 16:58:55 INFO  Log4jDemo:71 - In enterApplicationUrl method under BeforeTest
+2019-04-20 16:58:59 INFO  Log4jDemo:73 - url is entered successfully
+2019-04-20 16:59:00 INFO  Log4jDemo:40 - In getAllCookies method under BeforeMethod
+2019-04-20 16:59:01 INFO  Log4jDemo:43 - frontend
+2019-04-20 16:59:01 INFO  Log4jDemo:49 - In captureScreenshot method under AfterMethod
+2019-04-20 16:59:01 INFO  Log4jDemo:52 - ScreenShot captured successfully
+2019-04-20 16:59:01 INFO  Log4jDemo:64 - In deleteCookies method under AfterClass
+2019-04-20 16:59:02 INFO  Log4jDemo:66 - delete cookies succesfull
+2019-04-20 16:59:02 INFO  Log4jDemo:78 - Db connection close
+2019-04-20 16:59:02 INFO  Log4jDemo:91 - In closeBrowser method under AfterSuite
+2019-04-20 16:59:02 INFO  Log4jDemo:93 - Chrome browser is closed successfully
+2019-04-20 17:01:37 INFO  Log4jDemo:83 - In openBrowser method under BeforeSuite
+2019-04-20 17:01:43 INFO  Log4jDemo:86 - Chrome browser is opened successfully
+2019-04-20 17:01:43 INFO  Log4jDemo:71 - In enterApplicationUrl method under BeforeTest
+2019-04-20 17:01:49 INFO  Log4jDemo:73 - url is entered successfully
+2019-04-20 17:01:51 INFO  Log4jDemo:40 - In getAllCookies method under BeforeMethod
+2019-04-20 17:01:51 INFO  Log4jDemo:43 - frontend
+2019-04-20 17:01:52 INFO  Log4jDemo:49 - In captureScreenshot method under AfterMethod
+2019-04-20 17:01:53 INFO  Log4jDemo:52 - ScreenShot captured successfully
+2019-04-20 17:01:53 INFO  Log4jDemo:64 - In deleteCookies method under AfterClass
+2019-04-20 17:01:54 INFO  Log4jDemo:66 - delete cookies succesfull
+2019-04-20 17:01:54 INFO  Log4jDemo:78 - Db connection close
+2019-04-20 17:01:54 INFO  Log4jDemo:91 - In closeBrowser method under AfterSuite
+2019-04-20 17:02:33 INFO  Log4jDemo:83 - In openBrowser method under BeforeSuite
+2019-04-20 17:02:39 INFO  Log4jDemo:86 - Chrome browser is opened successfully
+2019-04-20 17:02:39 INFO  Log4jDemo:71 - In enterApplicationUrl method under BeforeTest
+2019-04-20 17:02:43 INFO  Log4jDemo:73 - url is entered successfully
+2019-04-20 17:02:44 INFO  Log4jDemo:40 - In getAllCookies method under BeforeMethod
+2019-04-20 17:02:44 INFO  Log4jDemo:43 - osCsid
+2019-04-20 17:02:46 INFO  Log4jDemo:49 - In captureScreenshot method under AfterMethod
+2019-04-20 17:02:47 INFO  Log4jDemo:52 - ScreenShot captured successfully
+2019-04-20 17:02:47 INFO  Log4jDemo:64 - In deleteCookies method under AfterClass
+2019-04-20 17:02:47 INFO  Log4jDemo:66 - delete cookies succesfull
+2019-04-20 17:02:47 INFO  Log4jDemo:78 - Db connection close
+2019-04-20 17:02:47 INFO  Log4jDemo:91 - In closeBrowser method under AfterSuite
+2019-04-20 17:02:47 INFO  Log4jDemo:93 - Chrome browser is closed successfully
+2019-04-20 17:03:52 INFO  Log4jDemo:83 - In openBrowser method under BeforeSuite
+2019-04-20 17:03:56 INFO  Log4jDemo:86 - Chrome browser is opened successfully
+2019-04-20 17:03:56 INFO  Log4jDemo:71 - In enterApplicationUrl method under BeforeTest
+2019-04-20 17:04:01 INFO  Log4jDemo:73 - url is entered successfully
+2019-04-20 17:04:03 INFO  Log4jDemo:40 - In getAllCookies method under BeforeMethod
+2019-04-20 17:04:03 INFO  Log4jDemo:43 - osCsid
+2019-04-20 17:04:05 INFO  Log4jDemo:49 - In captureScreenshot method under AfterMethod
+2019-04-20 17:04:06 INFO  Log4jDemo:52 - ScreenShot captured successfully
+2019-04-20 17:04:06 INFO  Log4jDemo:64 - In deleteCookies method under AfterClass
+2019-04-20 17:04:06 INFO  Log4jDemo:66 - delete cookies succesfull
+2019-04-20 17:04:06 INFO  Log4jDemo:78 - Db connection close
+2019-04-20 17:04:06 INFO  Log4jDemo:91 - In closeBrowser method under AfterSuite
+2019-04-20 17:04:06 INFO  Log4jDemo:93 - Chrome browser is closed successfully
+2019-04-20 17:10:50 INFO  Log4jDemo:94 - In openBrowser method under BeforeSuite
+2019-04-20 17:11:11 INFO  Log4jDemo:97 - Chrome browser is opened successfully
+2019-04-20 17:11:11 INFO  Log4jDemo:82 - In enterApplicationUrl method under BeforeTest
+2019-04-20 17:11:16 INFO  Log4jDemo:84 - url is entered successfully
+2019-04-20 17:11:17 INFO  Log4jDemo:51 - In getAllCookies method under BeforeMethod
+2019-04-20 17:11:17 INFO  Log4jDemo:54 - osCsid
+2019-04-20 17:11:22 INFO  Log4jDemo:60 - In captureScreenshot method under AfterMethod
+2019-04-20 17:11:23 INFO  Log4jDemo:63 - ScreenShot captured successfully
+2019-04-20 17:11:23 INFO  Log4jDemo:51 - In getAllCookies method under BeforeMethod
+2019-04-20 17:11:23 INFO  Log4jDemo:54 - osCsid
+2019-04-20 17:11:26 INFO  Log4jDemo:60 - In captureScreenshot method under AfterMethod
+2019-04-20 17:11:27 INFO  Log4jDemo:63 - ScreenShot captured successfully
+2019-04-20 17:11:27 INFO  Log4jDemo:75 - In deleteCookies method under AfterClass
+2019-04-20 17:11:27 INFO  Log4jDemo:77 - delete cookies succesfull
+2019-04-20 17:11:27 INFO  Log4jDemo:89 - Db connection close
+2019-04-20 17:11:27 INFO  Log4jDemo:102 - In closeBrowser method under AfterSuite
+2019-04-20 17:11:27 INFO  Log4jDemo:104 - Chrome browser is closed successfully
+2019-04-20 17:14:27 INFO  Log4jDemo:94 - In openBrowser method under BeforeSuite
+2019-04-20 17:14:32 INFO  Log4jDemo:97 - Chrome browser is opened successfully
+2019-04-20 17:14:32 INFO  Log4jDemo:82 - In enterApplicationUrl method under BeforeTest
+2019-04-20 17:14:36 INFO  Log4jDemo:84 - url is entered successfully
+2019-04-20 17:14:37 INFO  Log4jDemo:51 - In getAllCookies method under BeforeMethod
+2019-04-20 17:14:37 INFO  Log4jDemo:54 - osCsid
+2019-04-20 17:14:41 INFO  Log4jDemo:60 - In captureScreenshot method under AfterMethod
+2019-04-20 17:14:42 INFO  Log4jDemo:63 - ScreenShot captured successfully
+2019-04-20 17:14:42 INFO  Log4jDemo:51 - In getAllCookies method under BeforeMethod
+2019-04-20 17:14:42 INFO  Log4jDemo:54 - osCsid
+2019-04-20 17:14:44 INFO  Log4jDemo:60 - In captureScreenshot method under AfterMethod
+2019-04-20 17:14:44 INFO  Log4jDemo:63 - ScreenShot captured successfully
+2019-04-20 17:14:44 INFO  Log4jDemo:75 - In deleteCookies method under AfterClass
+2019-04-20 17:14:44 INFO  Log4jDemo:77 - delete cookies succesfull
+2019-04-20 17:14:44 INFO  Log4jDemo:89 - Db connection close
+2019-04-20 17:14:44 INFO  Log4jDemo:102 - In closeBrowser method under AfterSuite
+2019-04-20 17:14:45 INFO  Log4jDemo:104 - Chrome browser is closed successfully
