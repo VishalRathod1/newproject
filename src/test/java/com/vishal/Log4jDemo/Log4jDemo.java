@@ -102,6 +102,9 @@ public class Log4jDemo {
 	  logger.info("In closeBrowser method under AfterSuite");
 	  driver.close();
 	  logger.info("Chrome browser is closed successfully");
+	  
+	  
+	  System.out.println("added from eclips");
   }
 
 }
